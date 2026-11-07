@@ -1,0 +1,6 @@
+{
+  "name": "AuditFactures - Validation Automatique B2B",
+  "description": "Application B2B de gestion, d'audit comptable et de validation automatique de factures connectée à l'ERP avec extraction IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
